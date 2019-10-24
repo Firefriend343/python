@@ -1,3 +1,4 @@
+#We are making a test program
 noun = raw_input("Choose target of destruction: ")
 verb = raw_input("Give command to fire")
 
